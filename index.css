@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+.Home_page{
+    background-image: url('bgone.png');
+    padding: 21px 0 21px 0;
+}
+
+.Home_page h5{
+    font-size: 18px;
+    opacity: 0.5;
+    font-weight: normal;
+}
+
+.category{
+    border-right: 1px solid slategray;
+}
+
+.category svg{
+    margin-top: 24px;
+}
+
+.menu{
+    color: white;
+    padding: 24px 0 0 16px;
+}
+
+.menu div{
+    margin-top: 24px;
+}
+
+.menu img{
+    margin-right: 8px;
+}
+
+.f_one{
+    background: #004390;
+    border-radius: 2px 2px 0px 0px;
+    padding: 4px 0 4px 16px;
+    color: white;
+    margin-top: 28px;
+}
+
+.f_one a{
+    text-decoration: none !important;
+    color: #FFFFFF;
+    opacity: 0.5;
+    margin-right: 20px;
+}
+
+.f_one a:hover {
+    opacity: 1 !important;
+    color: white;
+}
+
+.f_two{
+    padding: 12px 0 0 16px;
+}
+
+.f_two button{
+    width: 48px;
+    background: #BFDCFF;
+    border-radius: 5px;
+    border: none;
+    outline: none !important;
+    color: #0062A9;
+    margin-right: 16px;
+}
+
+.my{
+    background: #0062A9;
+    padding: 22px 115px;
+    margin-top: 21px;
+    font-weight: 500;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.my_two{
+    padding: 0 0 7px 0;
+}
+
+.my_three{
+    padding: 16px 0 0 0;
+}
+
+.my_three input{
+    width: 67px;
+    height: 25px;
+}
+
+.bet{
+    background: #033064;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    outline: none !important;
+    width: 134px;
+    height: 40px;
+    margin-left: 62px;
+}
